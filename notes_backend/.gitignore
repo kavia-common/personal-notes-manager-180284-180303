@@ -1,2 +1,12 @@
 bin/
 obj/
+*.user
+*.suo
+*.userprefs
+*.DS_Store
+.vscode/
+.idea/
+*.swp
+*.lock.json
+*.log
+.env
